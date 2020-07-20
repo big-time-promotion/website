@@ -2,7 +2,5 @@
 
 This is a really awesome website
 
-Now updating the readme file
-
-Updated this file locally
+Update masde in master on Github before rebase
 
