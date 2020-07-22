@@ -12,5 +12,6 @@ Update masde in master on Github before rebase
    This was edited locally.
 =======
 ## Purpuse 
-This file is just a readme file.
+The purpose of this file is provide examples 
+on how to use GIT and GITHUB together.
 >>>>>>> 6e59ddc8a2986f48d69c1f7c376ebb74b11a4c5b
